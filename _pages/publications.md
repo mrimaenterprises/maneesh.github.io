@@ -1,11 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -14,3 +13,20 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
+
+<b>[Multitask Learning For Different Subword Segmentations In Neural Machine Translation](https://arxiv.org/abs/1910.12368)</b> <br>
+<b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
+<i>International Workshop on Spoken Language Translation (IWSLT) 2019</i>
+
+<b>[Structured Fusion Networks for Dialog](https://arxiv.org/abs/1907.10016)</b> <br>
+Shikib Mehri\*, <b>Tejas Srinivasan\*</b>, Maxine Eskenazi <br>
+<i>Special Interest Group on Discourse and Dialogue (SIGDIAL) 2019</i>
+
+<b>[Analyzing Utility of Visual Context in Multimodal Speech Recognition Under Noisy Conditions](https://arxiv.org/abs/1907.00477)</b> <br>
+<b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
+<i> The How2 Challenge: New Tasks for Vision & Language, ICML 2019</i>
+
+
+
+\* denotes equal contribution
