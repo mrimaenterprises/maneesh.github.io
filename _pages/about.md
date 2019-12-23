@@ -12,7 +12,7 @@ Hi! I'm a second-year Master's student at the Language Technologies Institute at
 
 My research interests lie in the area of multimodal machine learning. My recent work has revolved around using vision to make speech recognition models more robust to missing/noisy audio signal. I have also recently worked on other NLP applications such as dialog, machine translation and computational social science.
 
-Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, majoring in Mechanical Engineering.
+Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, majoring in Mechanical Engineering, with a Minor degree in Computer Science.
 
 News
 ======
