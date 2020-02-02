@@ -17,6 +17,7 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 News
 ======
 
+* <b>Jan 2020</b>: Paper accepted to ICASSP 2020! See you in Barcelona :)
 * <b>Oct 2019</b>: Our [paper](https://arxiv.org/abs/1910.12368) got accepted to IWSLT 2019!
 * <b>Sept 2019</b>: Our work on [Structured Fusion Networks for Dialog](https://arxiv.org/abs/1907.10016) was awarded the Best Paper Award at [SIGDIAL 2019](https://www.sigdial.org/files/workshops/conference20/)!
 
