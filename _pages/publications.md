@@ -15,6 +15,10 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>Looking Enhances Listening: Recovering Missing Speech Using Images</b> <br>
+<b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
+<i>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020</i>
+
 <b>[Multitask Learning For Different Subword Segmentations In Neural Machine Translation](https://arxiv.org/abs/1910.12368)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
 <i>International Workshop on Spoken Language Translation (IWSLT) 2019</i>
