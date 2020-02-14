@@ -15,7 +15,7 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>Looking Enhances Listening: Recovering Missing Speech Using Images</b> <br>
+<b>[Looking Enhances Listening: Recovering Missing Speech Using Images](https://arxiv.org/abs/2002.05639)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
 <i>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020</i>
 
