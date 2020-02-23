@@ -15,9 +15,13 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>2020</b>
+
 <b>[Looking Enhances Listening: Recovering Missing Speech Using Images](https://arxiv.org/abs/2002.05639)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
 <i>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020</i>
+
+<b>2019</b>
 
 <b>[Multitask Learning For Different Subword Segmentations In Neural Machine Translation](https://arxiv.org/abs/1910.12368)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
@@ -26,6 +30,7 @@ author_profile: true
 <b>[Structured Fusion Networks for Dialog](https://arxiv.org/abs/1907.10016)</b> <br>
 Shikib Mehri\*, <b>Tejas Srinivasan\*</b>, Maxine Eskenazi <br>
 <i>Special Interest Group on Discourse and Dialogue (SIGDIAL) 2019</i>
+<b>Best Paper Award</b>
 
 <b>[Analyzing Utility of Visual Context in Multimodal Speech Recognition Under Noisy Conditions](https://arxiv.org/abs/1907.00477)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
