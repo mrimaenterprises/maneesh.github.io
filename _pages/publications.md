@@ -29,7 +29,7 @@ author_profile: true
 
 <b>[Structured Fusion Networks for Dialog](https://arxiv.org/abs/1907.10016)</b> <br>
 Shikib Mehri\*, <b>Tejas Srinivasan\*</b>, Maxine Eskenazi <br>
-<i>Special Interest Group on Discourse and Dialogue (SIGDIAL) 2019</i>
+<i>Special Interest Group on Discourse and Dialogue (SIGDIAL) 2019</i> <br>
 <b>Best Paper Award</b>
 
 <b>[Analyzing Utility of Visual Context in Multimodal Speech Recognition Under Noisy Conditions](https://arxiv.org/abs/1907.00477)</b> <br>
