@@ -17,10 +17,17 @@ author_profile: true
 
 <b>2020</b>
 
-<b>Fine-Grained Grounding for Multimodal Speech Recognition</b> <br>
+<b>[Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze, Desmond Elliott <br>
 <i>Findings of Emperical Methods in Natural Language Processing (EMNLP) 2020</i>
 
+<b>Multimodal Speech Recognition with Unstructured Audio Masking</b> <br>
+<b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze, Desmond Elliott <br>
+<i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
+
+<b>Reasoning Over History: Context-Aware Visual Dialog</b> <br>
+<b>Muhammad Shah\*, Shikib Mehri\*, <b>Tejas Srinivasan\*</b><br>
+<i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
 
 <b>[Looking Enhances Listening: Recovering Missing Speech Using Images](https://arxiv.org/abs/2002.05639)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
