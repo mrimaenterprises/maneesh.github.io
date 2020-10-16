@@ -26,7 +26,7 @@ author_profile: true
 <i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
 
 <b>Reasoning Over History: Context-Aware Visual Dialog</b> <br>
-<b>Muhammad Shah\*, Shikib Mehri\*, <b>Tejas Srinivasan\*</b><br>
+Muhammad Shah\*, Shikib Mehri\*, <b>Tejas Srinivasan\*</b><br>
 <i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
 
 <b>[Looking Enhances Listening: Recovering Missing Speech Using Images](https://arxiv.org/abs/2002.05639)</b> <br>

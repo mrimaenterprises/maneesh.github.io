@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Research Scientist at [AI Foundation](https://aifoundation.com/). Before this, I was Master's student at the Language Technologies Institute at Carnegie Mellon University, where I was advised by [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html) and [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/).
+Hi! I'm an NLP Research Scientist at [AI Foundation](https://aifoundation.com/). Before this, I was a Master's student at the Language Technologies Institute at Carnegie Mellon University, where I was advised by [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html) and [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/).
 
 My research interests lie in the area of multimodal machine learning and language grounding. My recent work has revolved around using vision to make speech recognition models more robust to missing/noisy audio signal. I have also recently worked on other NLP applications such as dialog, machine translation and computational social science.
 
