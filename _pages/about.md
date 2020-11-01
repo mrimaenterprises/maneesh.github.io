@@ -17,7 +17,7 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 News
 ======
 
-* <b>Oct 2020</b>: Two papers accepted to the Workshop on NLP Beyond Text at EMNLP 2020 :)
+* <b>Oct 2020</b>: [Two](https://arxiv.org/abs/2010.08642) papers accepted to the Workshop on NLP Beyond Text at EMNLP 2020 :)
 * <b>Sept 2020</b>: Our paper on [Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384) has been accepted to Findings of EMNLP 2020!
 * <b>July 2020</b>: I will be joining [AI Foundation](https://aifoundation.com/) as a Research Scientist in September, working on dialog :)
 * <b>Jan 2020</b>: Our paper on multimodal ASR, [Looking Enhances Listening (LEL)](https://arxiv.org/abs/2002.05639), has been accepted to ICASSP 2020! See you in Barcelona :)

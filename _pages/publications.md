@@ -21,7 +21,7 @@ author_profile: true
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze, Desmond Elliott <br>
 <i>Findings of Emperical Methods in Natural Language Processing (EMNLP) 2020</i>
 
-<b>Multimodal Speech Recognition with Unstructured Audio Masking</b> <br>
+<b>[Multimodal Speech Recognition with Unstructured Audio Masking](https://arxiv.org/abs/2010.08642)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze, Desmond Elliott <br>
 <i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
 
