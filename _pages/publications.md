@@ -14,6 +14,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+<b>2021</b>
+
+<b>Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models</b>
+<b>Tejas Srinivasan</b>, Yonatan Bisk
+<i>arXiV Preprint</i>
+
 
 <b>2020</b>
 

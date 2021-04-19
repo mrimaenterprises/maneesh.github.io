@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm an NLP Research Scientist at [AI Foundation](https://aifoundation.com/). Before this, I was a Master's student at the Language Technologies Institute at Carnegie Mellon University, where I was advised by [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html) and [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/).
+Hi! I am a Research Intern at Microsoft Research, and an incoming PhD student at University of Southern California, where I will be working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception and interaction</b>. 
 
-My research interests lie in the area of multimodal machine learning and language grounding. My recent work has revolved around using vision to make speech recognition models more robust to missing/noisy audio signal. I have also recently worked on other NLP applications such as dialog, machine translation and computational social science.
+Before this, I briefly worked as an NLP Research Scientist at AI Foundation. I completed my Master's from the Language Technologies Institute at Carnegie Mellon University, where I had the pleasure of working with [Prof. Yonatan Bisk](https://yonatanbisk.com/), [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/) and [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html).
+
+My research interests lie in the area of multimodal machine learning and language grounding. My Master's research revolved around using vision to make speech recognition models more robust to missing/noisy audio signal. I have also recently worked on other NLP applications such as dialog, machine translation and computational social science.
 
 Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, majoring in Mechanical Engineering, with a Minor degree in Computer Science.
 
 News
 ======
-
+* <b> March 2020</b>: I will be joining University of Southern California for my PhD, working on language grounding with [Jesse Thomason](https://jessethomason.com/)!
 * <b>Oct 2020</b>: [Two](https://arxiv.org/abs/2010.08642) papers accepted to the Workshop on NLP Beyond Text at EMNLP 2020 :)
 * <b>Sept 2020</b>: Our paper on [Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384) has been accepted to Findings of EMNLP 2020!
 * <b>July 2020</b>: I will be joining [AI Foundation](https://aifoundation.com/) as a Research Scientist in September, working on dialog :)
