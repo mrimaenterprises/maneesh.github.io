@@ -18,7 +18,7 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 
 News
 ======
-* <b> March 2020</b>: I will be joining University of Southern California for my PhD, working on language grounding with [Jesse Thomason](https://jessethomason.com/)!
+* <b> March 2021</b>: I will be joining University of Southern California for my PhD, working on language grounding with [Jesse Thomason](https://jessethomason.com/)!
 * <b>Oct 2020</b>: [Two](https://arxiv.org/abs/2010.08642) papers accepted to the Workshop on NLP Beyond Text at EMNLP 2020 :)
 * <b>Sept 2020</b>: Our paper on [Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384) has been accepted to Findings of EMNLP 2020!
 * <b>July 2020</b>: I will be joining [AI Foundation](https://aifoundation.com/) as a Research Scientist in September, working on dialog :)
