@@ -15,6 +15,12 @@ author_profile: true
 {% endfor %}
 -->
 
+<b>2021</b>
+
+<b>[Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666)</b> <br>
+<b>Tejas Srinivasan</b>, Yonatan Bisk <br>
+<i>arXiV Preprint</i>
+
 <b>2020</b>
 
 <b>[Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384)</b> <br>
