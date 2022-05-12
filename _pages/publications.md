@@ -15,11 +15,11 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>2021</b>
+<b>2022</b>
 
 <b>[Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666)</b> <br>
 <b>Tejas Srinivasan</b>, Yonatan Bisk <br>
-<i>arXiV Preprint</i>
+<i>4th Workshop on Gender Bias in Natural Language Processing, NAACL 2022</i>
 
 <b>2020</b>
 

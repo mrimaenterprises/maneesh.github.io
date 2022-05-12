@@ -18,6 +18,7 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 
 News
 ======
+* <b>May 2022</b>: Our paper [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666) got accept to the Gender Bias in NLP workshop at NAACL 2022!
 * <b> Aug 2021</b>: Moved to LA and started my PhD at USC - excited to spend the next few years at the GLAMOR Lab! :sunny:
 * <b> April 2021</b>: New pre-print alert! [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666)
 * <b> March 2021</b>: I will be joining University of Southern California for my PhD, working on language grounding with [Jesse Thomason](https://jessethomason.com/)!
