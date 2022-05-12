@@ -20,7 +20,7 @@ News
 ======
 * <b>May 2022</b>: Our paper [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666) got accept to the Gender Bias in NLP workshop at NAACL 2022!
 * <b> Aug 2021</b>: Moved to LA and started my PhD at USC - excited to spend the next few years at the GLAMOR Lab! :sunny:
-* <b> April 2021</b>: New pre-print alert! [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666)
+* <b> April 2021</b>: New [pre-print](https://arxiv.org/abs/2104.08666) alert!
 * <b> March 2021</b>: I will be joining University of Southern California for my PhD, working on language grounding with [Jesse Thomason](https://jessethomason.com/)!
 * <b>Oct 2020</b>: [Two](https://arxiv.org/abs/2010.08642) papers accepted to the Workshop on NLP Beyond Text at EMNLP 2020 :)
 * <b>Sept 2020</b>: Our paper on [Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384) has been accepted to Findings of EMNLP 2020!
