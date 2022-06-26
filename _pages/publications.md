@@ -15,13 +15,17 @@ author_profile: true
 {% endfor %}
 -->
 
-<b>2022</b>
+<h2>2022</h2>
+
+<b>[CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks](https://arxiv.org/abs/2206.09059)</b> <br>
+<b>Tejas Srinivasan</b>, Ting-Yun Chang, Leticia Pinto Alva, Georgios Chochlakis, Mohammad Rostami, Jesse Thomason <br>
+<i>arXiV preprint</i>
 
 <b>[Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666)</b> <br>
 <b>Tejas Srinivasan</b>, Yonatan Bisk <br>
 <i>4th Workshop on Gender Bias in Natural Language Processing, NAACL 2022</i>
 
-<b>2020</b>
+<h2>2020</h2>
 
 <b>[Fine-Grained Grounding for Multimodal Speech Recognition](https://arxiv.org/abs/2010.02384)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze, Desmond Elliott <br>
@@ -31,7 +35,7 @@ author_profile: true
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze, Desmond Elliott <br>
 <i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
 
-<b>Reasoning Over History: Context-Aware Visual Dialog</b> <br>
+<b>[Reasoning Over History: Context-Aware Visual Dialog](2011.00669)</b> <br>
 Muhammad Shah\*, Shikib Mehri\*, <b>Tejas Srinivasan\*</b><br>
 <i>Workshop on Natural Language Processing Beyond Text, EMNLP 2020</i>
 
@@ -39,7 +43,7 @@ Muhammad Shah\*, Shikib Mehri\*, <b>Tejas Srinivasan\*</b><br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
 <i>International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020</i>
 
-<b>2019</b>
+<h2>2019</h2>
 
 <b>[Multitask Learning For Different Subword Segmentations In Neural Machine Translation](https://arxiv.org/abs/1910.12368)</b> <br>
 <b>Tejas Srinivasan</b>, Ramon Sanabria, Florian Metze <br>
