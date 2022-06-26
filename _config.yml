@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tejas Srinivasan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tejas Srinivasan"
 description              : &description "PhD Student, University of Southern California"
