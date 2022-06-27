@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year PhD student in the GLAMOR Lab at University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception and interaction</b>. 
+Hi! I am a first-year PhD student in the GLAMOR Lab at University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception and, more broadly, the world</b>. 
 
 Before this, I was a Research Intern at Microsoft Research, and briefly worked as an NLP Research Scientist at AI Foundation. I completed my Master's from the Language Technologies Institute at Carnegie Mellon University, where I had the pleasure of working with [Prof. Yonatan Bisk](https://yonatanbisk.com/), [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/) and [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html).
 
