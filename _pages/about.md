@@ -18,6 +18,7 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 
 News
 ======
+* <b>Aug 2022</b>: New pre-print! in [Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525), we align pre-trained image and text encoders to get comparable retrieval performance to CLIP, with < 1% of the data!
 * <b>June 2022</b>: Pre-print alert! We introduce [CLiMB](https://arxiv.org/abs/2206.09059) 🧗‍♂️, a new continual learning benchmark for vision-and-language tasks.
 * <b>May 2022</b>: Our paper [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666) got accept to the Gender Bias in NLP workshop at NAACL 2022!
 * <b> Aug 2021</b>: Moved to LA and started my PhD at USC - excited to spend the next few years at the [GLAMOR Lab](https://glamor-usc.github.io/)! ✨
