@@ -24,7 +24,7 @@ author_profile: true
 
 <b>[CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks](https://arxiv.org/abs/2206.09059)</b> <br>
 <b>Tejas Srinivasan</b>, Ting-Yun Chang, Leticia Pinto Alva, Georgios Chochlakis, Mohammad Rostami, Jesse Thomason <br>
-<i>arXiV preprint</i>
+<i>NeurIPS 2022 Datasets and Benchmarks Track</i>
 
 <b>[Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666)</b> <br>
 <b>Tejas Srinivasan</b>, Yonatan Bisk <br>
