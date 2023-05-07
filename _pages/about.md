@@ -18,6 +18,9 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 
 News
 ======
+* <b>May 2023</b>: Incredibly grateful to have received the Viterbi Undergraduate Research Mentoring Award!
+* <b>April 2023</b>: [Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525) will be presented at the [O-DRUM workshop](https://asu-apg.github.io/odrum/) at CVPR 2023!
+* <b>Feb 2023</b>: I will be doing a research trip at [AI2 Mosaic](https://mosaic.allenai.org/) this summer!
 * <b>Oct 2022</b>: Gave invited talks on [CLiMB](https://arxiv.org/abs/2206.09059) at the [Montral Institute of Learning Algorithms](https://mila.quebec/en/) and the [ContinualAI](https://www.continualai.org/) Seminar - [slides](files/climb-slides.pdf) and [video](https://www.youtube.com/watch?v=zkw2S3TWJA0&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z).
 * <b>Sept 2022</b>: [CLiMB](https://arxiv.org/abs/2206.09059) 🧗‍♂️ was accepted to the [NeurIPS 2022](https://neurips.cc/Conferences/2022) Datasets and Benchmarks Track! See you in New Orleans ⚜️🎷!
 * <b>Aug 2022</b>: New pre-print! in [Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525), we align pre-trained image and text encoders to get comparable retrieval performance to CLIP, with < 1% of the data!
