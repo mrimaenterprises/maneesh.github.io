@@ -15,12 +15,17 @@ author_profile: true
 {% endfor %}
 -->
 
-<h2>2022</h2>
+<h2>2023</h2>
 
-<b>[Curriculum Learning for Data-Efficient Vision-Language Alignment
-](https://arxiv.org/abs/2207.14525)</b> <br>
-<b>Tejas Srinivasan</b>, Xiang Ren, Jesse Thomason <br>
+<b>[I2I: Initializing Adapters with Improvised Knowledge](https://arxiv.org/abs/2304.02168)</b> <br>
+<b>Tejas Srinivasan</b>, Furong Jia, Mohammad Rostami, Jesse Thomason <br>
 <i>arXiV preprint</i>
+
+<b>[Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525)</b> <br>
+<b>Tejas Srinivasan</b>, Xiang Ren, Jesse Thomason <br>
+<i>O-DRUM Workshop, CVPR 2023</i>
+
+<h2>2022</h2>
 
 <b>[CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks](https://arxiv.org/abs/2206.09059)</b> <br>
 <b>Tejas Srinivasan</b>, Ting-Yun Chang, Leticia Pinto Alva, Georgios Chochlakis, Mohammad Rostami, Jesse Thomason <br>
