@@ -19,7 +19,7 @@ author_profile: true
 
 <b>[I2I: Initializing Adapters with Improvised Knowledge](https://arxiv.org/abs/2304.02168)</b> <br>
 <b>Tejas Srinivasan</b>, Furong Jia, Mohammad Rostami, Jesse Thomason <br>
-<i>arXiV preprint</i>
+<i>Conference on Lifelong Learning Agents (CoLLAs) 2023</i>
 
 <b>[Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525)</b> <br>
 <b>Tejas Srinivasan</b>, Xiang Ren, Jesse Thomason <br>
