@@ -21,6 +21,10 @@ author_profile: true
 <b>Tejas Srinivasan</b>, Furong Jia, Mohammad Rostami, Jesse Thomason <br>
 <i>Conference on Lifelong Learning Agents (CoLLAs) 2023</i>
 
+<b>[Multimodal Speech Recognition for Language-Guided Embodied Agents](https://arxiv.org/abs/2302.14030)</b> <br>
+Allen Chang, Xiaoyuan Zhu, Aarav Monga, Seoho Ahn, <b>Tejas Srinivasan</b>, Jesse Thomason <br>
+<i>Interspeech 2023</i>
+
 <b>[Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525)</b> <br>
 <b>Tejas Srinivasan</b>, Xiang Ren, Jesse Thomason <br>
 <i>O-DRUM Workshop, CVPR 2023</i>
