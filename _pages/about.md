@@ -18,7 +18,8 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 
 News
 ======
-* <b>May 2023</b>: [I2I: Initializing Adapters with Improvised Knowledge](https://arxiv.org/abs/2304.02168) has been accepted to [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/)!
+* <b>May 2023</b>: [One paper](https://arxiv.org/abs/2302.14030) accepted to [Interspeech 2023](http://interspeech2023.org/)!
+* <b>May 2023</b>: [One paper](https://arxiv.org/abs/2304.02168) accepted to [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/)!
 * <b>May 2023</b>: Started my summer internship at [AI2 Mosaic](https://mosaic.allenai.org/)!
 * <b>May 2023</b>: Incredibly grateful to have received the Viterbi Undergraduate Research Mentoring Award!
 * <b>April 2023</b>: [Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525) will be presented at the [O-DRUM workshop](https://asu-apg.github.io/odrum/) at CVPR 2023!
