@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year PhD student in the [GLAMOR Lab](https://glamor-usc.github.io/) at University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception and, more broadly, the world</b>. 
+Hi! I am a second-year PhD student in the [GLAMOR Lab](https://glamor-usc.github.io/) at University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception and, more broadly, the world</b>. I am also currently doing a summer internship at [AI2 Mosaic](https://mosaic.allenai.org/), where I am working with [Jack Hessel](https://jmhessel.com/) and [Khyathi Chandu](https://www.cs.cmu.edu/~kchandu/) on vision-language reasoning.
 
 Before this, I was a Research Intern at Microsoft Research, and briefly worked as an NLP Research Scientist at AI Foundation. I completed my Masters from the Language Technologies Institute at Carnegie Mellon University, where I had the pleasure of working with [Prof. Yonatan Bisk](https://yonatanbisk.com/), [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/) and [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html).
 
@@ -21,7 +21,7 @@ News
 * <b>May 2023</b>: [One paper](https://arxiv.org/abs/2302.14030) accepted to [Interspeech 2023](http://interspeech2023.org/)!
 * <b>May 2023</b>: [One paper](https://arxiv.org/abs/2304.02168) accepted to [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/)!
 * <b>May 2023</b>: Started my summer internship at [AI2 Mosaic](https://mosaic.allenai.org/)!
-* <b>May 2023</b>: Incredibly grateful to have received the Viterbi Undergraduate Research Mentoring Award!
+* <b>May 2023</b>: Incredibly grateful to have received the [Viterbi Undergraduate Research Mentoring Award](https://viterbigrad.usc.edu/news-and-events/viterbi-phd-awards/#Award2)!
 * <b>April 2023</b>: [Curriculum Learning for Data-Efficient Vision-Language Alignment](https://arxiv.org/abs/2207.14525) will be presented at the [O-DRUM workshop](https://asu-apg.github.io/odrum/) at CVPR 2023!
 * <b>Feb 2023</b>: I will be doing a research internship at [AI2 Mosaic](https://mosaic.allenai.org/) this summer!
 * <b>Oct 2022</b>: Gave invited talks on [CLiMB](https://arxiv.org/abs/2206.09059) at the [Montréal Institute of Learning Algorithms](https://mila.quebec/en/) and the [ContinualAI](https://www.continualai.org/) Seminar - [slides](files/climb-slides.pdf) and [video](https://www.youtube.com/watch?v=zkw2S3TWJA0&list=PLm6QXeaB-XkBMFxvgZvYjqhaPgGg8Um9Z).
