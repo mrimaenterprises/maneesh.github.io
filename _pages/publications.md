@@ -15,7 +15,21 @@ author_profile: true
 {% endfor %}
 -->
 
+<h2>2024</h2>
+
+<b>[Selective “Selective Prediction”: Reducing Unnecessary Abstention in Vision-Language Reasoning](https://arxiv.org/abs/2402.15610)</b> <br>
+<b>Tejas Srinivasan</b>, Jack Hessel, Tanmay Gupta, Bill Yuchen Lin, Yejin Choi, Jesse Thomason, Khyathi Raghavi Chandu <br>
+<i>ACL Findings 2024</i>
+
+<b>[WinoViz: Probing Visual Properties of Objects Under Different States](https://arxiv.org/abs/2402.13584)</b> <br>
+Woojeong Jin, <b>Tejas Srinivasan</b>, Jesse Thomason, Xiang Ren <br>
+<i>arXiV Preprint</i>
+
 <h2>2023</h2>
+
+<b>[Exploring Strategies for Modeling Sign Language Phonology](https://arxiv.org/abs/2310.00195)</b> <br>
+Lee Kezar, Riley Carlin, <b>Tejas Srinivasan</b>, Zed Sehyr, Naomi Caselli, Jesse Thomason <br>
+<i>European Symposium on Artificial Neural Networks (ESANN) 2023</i>
 
 <b>[I2I: Initializing Adapters with Improvised Knowledge](https://arxiv.org/abs/2304.02168)</b> <br>
 <b>Tejas Srinivasan</b>, Furong Jia, Mohammad Rostami, Jesse Thomason <br>

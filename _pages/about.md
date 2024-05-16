@@ -18,6 +18,7 @@ Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, major
 
 News
 ======
+* <b>May 2024</b>: Our work on [selective prediction for VLMs](https://arxiv.org/abs/2402.15610) was accepted to ACL Findings 2024!
 * <b>May 2023</b>: [One paper](https://arxiv.org/abs/2302.14030) accepted to [Interspeech 2023](http://interspeech2023.org/)!
 * <b>May 2023</b>: [One paper](https://arxiv.org/abs/2304.02168) accepted to [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/)!
 * <b>May 2023</b>: Started my summer internship at [AI2 Mosaic](https://mosaic.allenai.org/)!
