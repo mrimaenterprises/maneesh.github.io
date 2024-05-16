@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year PhD student in the [GLAMOR Lab](https://glamor-usc.github.io/) at University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception and, more broadly, the world</b>. I am also currently doing a summer internship at [AI2 Mosaic](https://mosaic.allenai.org/), where I am working with [Jack Hessel](https://jmhessel.com/) and [Khyathi Chandu](https://www.cs.cmu.edu/~kchandu/) on vision-language reasoning.
+Hi! I am a second-year PhD student in the [GLAMOR Lab](https://glamor-usc.github.io/) at University of Southern California, where I am working with [Prof. Jesse Thomason](https://jessethomason.com/) on <b>language grounding in perception</b> and <b>user-centric approaches to building reliable AI systems</b>. 
 
-Before this, I was a Research Intern at Microsoft Research, and briefly worked as an NLP Research Scientist at AI Foundation. I completed my Masters from the Language Technologies Institute at Carnegie Mellon University, where I had the pleasure of working with [Prof. Yonatan Bisk](https://yonatanbisk.com/), [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/) and [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html).
-
-My research interests lie in the area of multimodal machine learning and language grounding. My Master's research revolved around using vision to make speech recognition models more robust to missing/noisy audio signal. I have also recently worked on other NLP applications such as dialog, machine translation and computational social science.
-
-Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, majoring in Mechanical Engineering, with a Minor degree in Computer Science.
+I have previously completed research internships at [AI2 Mosaic](https://mosaic.allenai.org/) and Microsoft Research, and before my PhD I briefly worked as an NLP Research Scientist at AI Foundation. I completed my Masters from the Language Technologies Institute at Carnegie Mellon University, where I had the pleasure of working with [Prof. Yonatan Bisk](https://yonatanbisk.com/), [Prof. Louis-Philippe Morency](http://www.cs.cmu.edu/~morency/) and [Prof. Florian Metze](https://www.cs.cmu.edu/~fmetze/interACT/Home.html). Prior to CMU, I graduated from the Indian Institute of Technology, Bombay, majoring in Mechanical Engineering, with a Minor degree in Computer Science.
 
 News
 ======
