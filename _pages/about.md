@@ -14,6 +14,8 @@ I have previously completed research internships at [AI2 Mosaic](https://mosaic.
 
 News
 ======
+* <b>Aug 2024</b>: Honored to have been selected as an [Amazon ML Fellow](https://trustedai.usc.edu/fellowships) by the USC-Amazon Center on Secure and Trusted Machine Learning!
+* <b>July 2024</b>: New pre-print on [reliable preference evaluation](https://arxiv.org/abs/2407.01878)
 * <b>May 2024</b>: Our work on [selective prediction for VLMs](https://arxiv.org/abs/2402.15610) was accepted to ACL Findings 2024!
 * <b>May 2023</b>: [One paper](https://arxiv.org/abs/2302.14030) accepted to [Interspeech 2023](http://interspeech2023.org/)!
 * <b>May 2023</b>: [One paper](https://arxiv.org/abs/2304.02168) accepted to [CoLLAs 2023](https://lifelong-ml.cc/Conferences/2023/)!
