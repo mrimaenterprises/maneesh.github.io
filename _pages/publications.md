@@ -18,8 +18,8 @@ author_profile: true
 <h2>2024</h2>
 
 <b>[Compare without Despair: Reliable Preference Evaluation with Generation Separability
-](https://arxiv.org/abs/2407.01878)</b> <be>
-Sayan Ghosh, <b>Tejas Srinivasan</b>, Swabha Swayamdipta <be>
+](https://arxiv.org/abs/2407.01878)</b> <br>
+Sayan Ghosh, <b>Tejas Srinivasan</b>, Swabha Swayamdipta <br>
 <i>arXiV Preprint</i>
 
 <b>[Selective “Selective Prediction”: Reducing Unnecessary Abstention in Vision-Language Reasoning](https://arxiv.org/abs/2402.15610)</b> <br>
