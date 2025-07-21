@@ -15,12 +15,29 @@ author_profile: true
 {% endfor %}
 -->
 
+<h2> 2025 </h2>
+
+<b>[From Calibration to Collaboration: LLM Uncertainty Quantification Should Be More Human-Centered](https://arxiv.org/abs/2506.07461)</b> <br>
+Siddartha Devic, <b>Tejas Srinivasan</b>, Jesse Thomason, Willie Neiswanger, Vatsal Sharan <br>
+<i>arXiv Pre-Print</i>
+
+<b>[Can Vision-Language Models Understand Mimed Actions?](https://www.arxiv.org/abs/2506.21586)</b> <br>
+Hyundong Cho, Spencer Lin, <b>Tejas Srinivasan</b>, Michael Saxon, Deuksin Kwon, Natali T. Chavez, Jonathan May <br>
+<i>ACL Findings 2025</i>
+
+<b>[Adjust for Trust: Mitigating Trust-Induced Inappropriate Reliance on AI Assistance](https://arxiv.org/abs/2502.13321)</b> <br>
+<b>Tejas Srinivasan</b>, Jesse Thomason <br>
+<i>arXiv Pre-Print</i>
+
+<b>[Better Slow than Sorry: Introducing Positive Friction for Reliable Dialogue Systems](https://arxiv.org/abs/2501.17348)</b> <br>
+Mert İnan, Anthony Sicilia, Suvodip Dey, Vardhan Dongre, <b>Tejas Srinivasan</b>, Jesse Thomason, Gökhan Tür, Dilek Hakkani-Tür, Malihe Alikhani <br>
+<i>Transactions of ACL</i>
+
 <h2>2024</h2>
 
-<b>[Compare without Despair: Reliable Preference Evaluation with Generation Separability
-](https://arxiv.org/abs/2407.01878)</b> <br>
+<b>[Compare without Despair: Reliable Preference Evaluation with Generation Separability](https://arxiv.org/abs/2407.01878)</b> <br>
 Sayan Ghosh, <b>Tejas Srinivasan</b>, Swabha Swayamdipta <br>
-<i>arXiV Preprint</i>
+<i>EMNLP Findings 2024</i>
 
 <b>[Selective “Selective Prediction”: Reducing Unnecessary Abstention in Vision-Language Reasoning](https://arxiv.org/abs/2402.15610)</b> <br>
 <b>Tejas Srinivasan</b>, Jack Hessel, Tanmay Gupta, Bill Yuchen Lin, Yejin Choi, Jesse Thomason, Khyathi Raghavi Chandu <br>
